@@ -1,2 +1,0 @@
-# bigrenom.github.io
-site
